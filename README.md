@@ -1,2 +1,2 @@
 # GRUeneEnergie
-Gated Recurrent Unit Network for weather and energy prediciton
+Gated Recurrent Unit Network for photovoltaic wind energy supply prediciton
