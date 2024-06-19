@@ -1,0 +1,4 @@
+Wind 1h: average loss: 0.04747034436234854
+Solar 1h: average loss: 0.08144445960546631
+Solar 24h: average loss: 0.1879546457092517
+Wind 24h: average loss: 0.2793858460134739
